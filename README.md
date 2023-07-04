@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
+
 <!--
 **GiftParin/GiftParin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
